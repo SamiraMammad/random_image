@@ -1,0 +1,17 @@
+
+.container{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+   }
+  .page{
+   margin-top: 5rem;
+   margin-left: 30rem;
+  }
+  button{
+    padding: 1rem;
+    border-radius: 1.5rem;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+  }
